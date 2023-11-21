@@ -1,0 +1,23 @@
+body{
+	background-color: #1c3756;
+	color:white;
+	text-align: center;
+}
+.img{
+	height: 300px;
+	width: 300px;
+}
+
+.box1{
+	margin-left: 360px;
+	height: 110px;
+	width: 220px;
+	background-color:black;
+}
+
+.box2{
+	margin-left: 360px;
+	height: 60px;
+	width: 220px;
+	background-color:black;
+}
